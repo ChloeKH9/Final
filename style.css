@@ -6,3 +6,11 @@ h1 {
       color: red;
       font; American Typewriter, serif
 }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: white;
+
+}
