@@ -1,5 +1,5 @@
 body {
-      background-color: lightsalmon;
+      background-color: paleturquoise;
       border: black 
 }
 h1 {
@@ -11,7 +11,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: white;
+  background-color: lightseagreen;
 
 }
 li {
@@ -26,8 +26,4 @@ li a {
   text-decoration: none;
   font-size: 30px 
 }
- table {
-	 font: small-caps medium cursive; 
-  border-collapse: collapse;
-  width: 50%;
-}
+ 
