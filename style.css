@@ -26,13 +26,6 @@ li a {
   text-decoration: none;
   font-size: 30px 
 }
-
-li a:hover {
-  background-color: lightblue;
-}
- h2 { 
-      font : 2em "Courier New" ;
- }
  table {
 	 font: small-caps medium cursive; 
   border-collapse: collapse;
