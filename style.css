@@ -19,13 +19,8 @@ ul {
 li {
   float: left;
 }
-
-li a {
-  display: block;
-  color: black;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 30px 
+.column{
+      float: left; 
+      padding:15 px;
 }
  
