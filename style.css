@@ -29,6 +29,13 @@ li a {
 li {
   float: left;
 }
+li a:hover {
+  background-color: lightblue;
+}
+
+.active {
+  background-color: red;
+}
 .column{
       float: left; 
       padding:15 px;
