@@ -32,7 +32,7 @@ li {
 li a:hover {
   background-color: lightblue;
 }
-.active {
+a.active {
   background-color: lightsteelblue;
 }
  table {
