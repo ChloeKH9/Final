@@ -35,5 +35,11 @@ li a:hover {
 .active {
   background-color: lightsteelblue;
 }
+ table {
+	 font: small-caps medium cursive; 
+  border-collapse: collapse;
+  width: 50%;
+}
+
 
  
