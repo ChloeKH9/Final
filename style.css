@@ -47,7 +47,7 @@ div.sidebar{
 	font; 2em "Courier New";
 	border: 1px solid;
 }
- table {
+ table,th {
 	 font-family: "Courier New"; 
   border: 2px solid black;
   width: 35%;
