@@ -32,14 +32,15 @@ li {
 li a:hover {
   background-color: lightblue;
 }
-a.active {
+li a:active {
   background-color: lightsteelblue;
 }
- table {
-	 font: small-caps medium cursive; 
-  border-collapse: collapse;
-  width: 50%;
+header{
+  background-color: grey;
+  color: white;
+  padding: 15px;
 }
+	
 
 
  
