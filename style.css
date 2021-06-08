@@ -1,5 +1,5 @@
 body {
-      background-color: paleturquoise;
+      background-color: lightblue;
       border: black 
 }
 h1 {
@@ -35,7 +35,7 @@ li {
   float: left;
 }
 li a:hover {
-  background-color: lightblue;
+  background-color: Sky blue;
 }
 
 
