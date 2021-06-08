@@ -42,7 +42,8 @@ li a:hover {
 }
 div.sidebar{
 	float: right;
-	background-color: white;
+	background-image: url("https://i.pinimg.com/originals/06/cc/c7/06ccc77c1a3d81aa32df0ccea23eb9a8.jpg");
+	background-size: cover;
 	padding: 70px;
 	border: 1px solid;
 }
