@@ -38,8 +38,9 @@ li a:hover {
   background-color: skyblue;
 }
 .sidebar{
-	float: right
+	float: right;
 	background-color: white;
+	padding: 50px
 }
 	
 
