@@ -51,6 +51,7 @@ div.sidebar{
 	 font-family: "Courier New"; 
   border: 2px solid black;
   width: 35%;
+  border-collapse: collapse;
 }
 div.home{
 	float:center;
