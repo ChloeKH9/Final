@@ -41,7 +41,8 @@ li a:hover {
 div.sidebar{
 	float: right;
 	background-color: white;
-	padding: 80px
+	padding: 80px;
+	border: 1px solid;
 }
 	
 
