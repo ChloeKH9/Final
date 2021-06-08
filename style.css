@@ -47,6 +47,11 @@ div.sidebar{
 	font; 2em "Courier New";
 	border: 1px solid;
 }
+ table {
+	 font: small-caps medium cursive; 
+  border-collapse: collapse;
+  width: 50%;
+}
 	
 
 
