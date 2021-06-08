@@ -3,16 +3,11 @@ body {
       border: black 
 }
 h1 {
-      background-color; aliceblue;
+      background-color; lightsteelblue;
       color: black;
       font; 2em "Courier New"; 
       padding; 15px;
-}
-.header{
-  background-color: aliceblue;
-  color: white;
-  padding: 15px;
-}
+
 ul {
   list-style-type: none;
   margin: 0;
