@@ -52,6 +52,10 @@ div.sidebar{
   border: 2px solid black;
   width: 35%;
 }
+div.home{
+	float:center;
+	background-color: white;
+}
 	
 
 
