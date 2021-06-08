@@ -49,7 +49,7 @@ div.sidebar{
 }
  table {
 	 font: small-caps medium cursive; 
-  border-collapse: collapse;
+  border: 2px solid black;
   width: 50%;
 }
 	
