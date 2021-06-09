@@ -46,8 +46,9 @@ div.sidebar{
 	padding: 70px;
 	font; 2em "Courier New";
 	border: 1px solid;
+	width: 50%;
 }
- table,th {
+ table,th,td {
 	 font-family: "Courier New"; 
   border: 2px solid black;
   width: 35%;
