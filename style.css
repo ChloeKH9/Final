@@ -55,8 +55,9 @@ div.sidebar{
   border-collapse: collapse;
 }
 div.home{
-	float:center;
+	float:left;
 	background-color: white;
+	width: 500px;
 }
 div.code{
 	background-color: white;
