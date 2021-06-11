@@ -55,10 +55,13 @@ div.sidebar{
   border-collapse: collapse;
 }
 div.home{
-	float: right;
+	float: left;
 	margin-right: 100px;
 	background-color: white;
 	
+}
+div.page{
+	background-color: white;
 }
 
 	
